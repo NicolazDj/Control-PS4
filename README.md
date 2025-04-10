@@ -99,5 +99,6 @@ Asegúrate de que todos los botones se sientan bien al presionar.
   - Vibración
   - Luz LED
 - Puedes usar herramientas como **DS4Windows** para probar en PC.
+![soltar flex del tactil (1)](https://github.com/user-attachments/assets/e2cc607f-552d-40e6-bedc-cf1482ca4399)
 
 ---
