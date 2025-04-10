@@ -1,4 +1,4 @@
-# Control-PS4
+# Control-Dualshock(PS4)
 Mantenimiento de control de play station 4 
 # 🛠️ Mantenimiento de Control DualShock 4 (PS4) - Guía Completa
 
