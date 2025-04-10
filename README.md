@@ -44,7 +44,7 @@ Este repositorio documenta el proceso completo de mantenimiento preventivo y cor
 
 ### 1. **Retirar tornillos**
 - Apaga el control completamente.
-- Retira los **4 tornillos** traseros con un destornillador Phillips pequeño.
+- Retira los **4 tornillos** traseros con un destornillador  pequeño.
 - Usa una herramienta plástica para hacer palanca y separar con cuidado la carcasa.
 
 ### 2. **Separar las dos mitades**
