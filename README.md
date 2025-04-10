@@ -101,8 +101,3 @@ Asegúrate de que todos los botones se sientan bien al presionar.
 - Puedes usar herramientas como **DS4Windows** para probar en PC.
 
 ---
-
-## 📸 Imágenes del proceso (opcional)
-
-Puedes agregar imágenes reales aquí si tomaste durante el proceso:
-
