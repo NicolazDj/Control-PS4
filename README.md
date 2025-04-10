@@ -46,10 +46,12 @@ Este repositorio documenta el proceso completo de mantenimiento preventivo y cor
 - Apaga el control completamente.
 - Retira los **4 tornillos** traseros con un destornillador  pequeño.
 - Usa una herramienta plástica para hacer palanca y separar con cuidado la carcasa.
+![control ps4 detras](https://github.com/user-attachments/assets/9fd6ac2c-e96f-426d-960f-9901d15aede8)
 
 ### 2. **Separar las dos mitades**
 - Ten cuidado al abrir, ya que el panel táctil y la batería están conectados por cables.
 - Desconecta con suavidad el **cable de batería** y luego el de la **placa del panel táctil**.
+![control ps4 (1)](https://github.com/user-attachments/assets/be10e0db-1613-4854-b924-f3746d9b11c6)
 
 ### 3. **Retirar la batería**
 - Retira la batería del soporte con cuidado.
@@ -58,6 +60,8 @@ Este repositorio documenta el proceso completo de mantenimiento preventivo y cor
 ### 4. **Retirar la placa madre**
 - Quita los tornillos que sujetan la placa.
 - Levántala con suavidad y desconecta los cables planos si es necesario.
+  ![soltar flex del tactil (1)](https://github.com/user-attachments/assets/f46e9061-672c-4b16-a860-ebf97f4c1642)
+
 
 ---
 
@@ -99,6 +103,6 @@ Asegúrate de que todos los botones se sientan bien al presionar.
   - Vibración
   - Luz LED
 - Puedes usar herramientas como **DS4Windows** para probar en PC.
-![soltar flex del tactil (1)](https://github.com/user-attachments/assets/e2cc607f-552d-40e6-bedc-cf1482ca4399)
+
 
 ---
